@@ -7,7 +7,7 @@
 
 ## ⚠️ Disclaimer
 
-This is **not** the official code of the research paper. This is an independent work done entirely by **Nihar Mahesh Jani** (niharmaheshjani@gmail.com) as a personal research and learning project. The original paper was written by Maximilien Bernard, Jean-Philippe Bouchaud, and Pierre Le Doussal — they have no affiliation with this repository and have not reviewed or endorsed it.
+This is **not** the official code of the research paper. This is an independent work done entirely by **Nihar Mahesh Jani** (niharmaheshjani@gmail.com) as a personal research and learning project. The original paper was written by Maximilien Bernard, Jean-Philippe Bouchaud, and Pierre Le Doussal.
 
 Any results, conclusions, or analysis here are my own. If you use this code in your own work, please do your own verification. I make no guarantees about correctness, completeness, or fitness for any purpose. **Any risk from using this code is entirely your own, based on your own analysis.**
 
