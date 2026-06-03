@@ -250,11 +250,8 @@ The entire project runs in a single Jupyter notebook.
 
 ```bash
 # Clone the repo
-git clone https://github.com/niharmaheshjani/<repo-name>.git
-cd <repo-name>
-
-# Install dependencies
-pip install torch numpy scipy matplotlib
+git clone https://github.com/niharmaheshjani/<-Mean-Field-Random-Growth-with-Redistribution-Paper-Reproduction-8-Novel-Extensions>.git
+cd <-Mean-Field-Random-Growth-with-Redistribution-Paper-Reproduction-8-Novel-Extensions>
 
 # Open the notebook
 jupyter notebook code.ipynb
@@ -292,7 +289,7 @@ EXT8 HJB-PINN        ΔJ objective    —         +0.102    novel
 .
 ├── code.ipynb          # Main notebook — run this
 ├── README.md           # This file
-└── requirements.txt    # pip dependencies
+└── Summary.png         # Graphs Regarding Summary of Results
 ```
 
 ---
