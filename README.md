@@ -321,7 +321,7 @@ arXiv:2503.23189v3
 
 **This implementation:**
 ```
-Jani, N. M. (2025). Independent PyTorch reproduction and extensions of
+Jani, N. M. (2026). Independent PyTorch reproduction and extensions of
 Bernard, Bouchaud & Le Doussal (2026). GitHub repository.
 Contact: niharmaheshjani@gmail.com
 ```
