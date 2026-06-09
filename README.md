@@ -250,8 +250,8 @@ The entire project runs in a single Jupyter notebook.
 
 ```bash
 # Clone the repo
-git clone https://github.com/niharmaheshjani/<-Mean-Field-Random-Growth-with-Redistribution-Paper-Reproduction-8-Novel-Extensions>.git
-cd <-Mean-Field-Random-Growth-with-Redistribution-Paper-Reproduction-8-Novel-Extensions>
+git clone https://github.com/niharmaheshjani/Mean-Field-Random-Growth-with-Redistribution-Paper-Reproduction-8-Novel-Extensions.git
+cd Mean-Field-Random-Growth-with-Redistribution-Paper-Reproduction-8-Novel-Extensions
 
 # Open the notebook
 jupyter notebook code.ipynb
