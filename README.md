@@ -250,14 +250,17 @@ The entire project runs in a single Jupyter notebook.
 
 ```bash
 # Clone the repo
-git clone https://github.com/niharmaheshjani/Mean-Field-Random-Growth-with-Redistribution-Paper-Reproduction-8-Novel-Extensions.git
-cd Mean-Field-Random-Growth-with-Redistribution-Paper-Reproduction-8-Novel-Extensions
+Step 01) Find The Code Button which is Generally At Top of GitHub Repo and Click It
+Step 02) Then Click On Button Download Zip
+Step 03) Open The Folder On Your Local Code Editor Such As Vscode.
+Step 04) Make Sure You Have Jupyter NoteBook Extension Pre-Installed (For How to Download Extension In Vscode: https://www.youtube.com/watch?v=PmdbndOoKq4)
+Step 05) Make Sure You Have MiniConda Already Installed, If not For Mac:https://www.youtube.com/watch?v=WdXdl0C0jfE, For Windows:https://www.youtube.com/watch?v=XCvgyvBFjyM)
+Step 06) Open code.ipynb in vscode and Run All
 
-# Open the notebook
-jupyter notebook code.ipynb
+And You Will Get The Results
 ```
 
-The notebook runs top to bottom. Each section is self-contained. Total runtime on a CPU is roughly 45–90 minutes depending on your hardware. A GPU cuts this to around 15 minutes.
+The notebook runs top to bottom. Each section is self-contained. Total runtime on a CPU is roughly 1-2 mins for M1 Macbook Pro. It might slightly vary for different hardware. For a i5 or i7 intel chip it might run in similar time or slightly more
 
 **Python 3.9+ and PyTorch 2.0+ are required.**
 
