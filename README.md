@@ -322,7 +322,7 @@ arXiv:2503.23189v3
 **This implementation:**
 ```
 Jani, N. M. (2026). Independent PyTorch reproduction and extensions of
-Bernard, Bouchaud & Le Doussal (2026). GitHub repository.
+Bernard, Bouchaud & Le Doussal (2026). GitHub repository: https://github.com/NiharJani2002/-Mean-Field-Random-Growth-with-Redistribution-Paper-Reproduction-8-Novel-Extensions
 Contact: niharmaheshjani@gmail.com
 ```
 
